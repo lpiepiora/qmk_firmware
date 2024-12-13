@@ -7,8 +7,8 @@
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "usb": {
-        "vid": "0x1209",
-        "pid": "0x5801",
+        "vid": "0xFEED",
+        "pid": "0x1123",
         "device_version": "1.0.0"
     },
     "split": {
